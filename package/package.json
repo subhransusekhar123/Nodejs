@@ -1,0 +1,30 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhransusekhar123/Nodejs.git"
+  },
+  "keywords": [
+    "from",
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "subhransu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhransusekhar123/Nodejs/issues"
+  },
+  "homepage": "https://github.com/subhransusekhar123/Nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0"
+  }
+}
